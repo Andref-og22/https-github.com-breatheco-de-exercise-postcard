@@ -1,0 +1,84 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: 10px;
+    background-size: 100% ;
+    background-image: url(https://um.edu.ar/wp-content/uploads/Ser-madre.jpg
+    ) ;
+    padding: 10px;
+}
+
+#izquierda {
+    position: relative;
+    top: 40px;
+    padding-left: 120px;
+}
+
+#derecha {
+
+    display: flex;
+    justify-content: right;
+    padding-right: 130px;
+}
+
+img {
+    
+    margin-right: 20px;
+    position: relative;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.h3 {
+    position: relative;
+    top: 20px;
+    padding-left: 120px;
+    color: rgb(145, 12, 50);
+    font-size: 75%;
+    text-align: justify;
+    border-left-width: 50cap;
+}
+
+.formu {
+    display: flex;
+    justify-content: right;
+    padding-right: 100px;
+}
+
+form {
+
+    background-color: rgb(217, 123, 0);
+    width: 200px;
+    height: 250px;
+    color: rgb(219, 189, 150);
+    position: relative;
+    bottom: 250px;
+    padding: 30px;
+
+}
+
+.Name {
+
+    height: 20px;
+    width: 200px;
+}
+
+.Email {
+
+    height: 20px;
+    width: 200px;
+}
+
+.Messg {
+
+    height: 20px;
+    width: 200px;
+}
+
+.submit {
+
+    background-color: rgb(163, 31, 8);
+    color: rgb(220, 206, 180);
+    height: 30px;
+    width: 130px;
+}
